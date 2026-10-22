@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in [`ai-experiments/openai-agents-api`](https://github.com/techforum-repo/ai-experiments/tree/main/openai-agents-api), with its full commit history. This repo is archived and read-only.
+
 # AI Agents Experimentation
 
 Hands-on tests of OpenAI's **Agents API** (public beta, announced
